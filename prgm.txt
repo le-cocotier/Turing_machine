@@ -1,0 +1,13 @@
+e1 * * r e1
+e1 _ _ l e2
+e2 0 1 * halt
+e2 1 2 * halt
+e2 2 3 * halt
+e2 3 4 * halt
+e2 4 5 * halt
+e2 5 6 * halt
+e2 6 7 * halt
+e2 7 8 * halt
+e2 8 9 * halt
+e2 _ 1 * halt
+e2 9 0 l e2
